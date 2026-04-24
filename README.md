@@ -11,9 +11,7 @@ This project demonstrates how a Web Application Firewall (WAF) protects a vulner
 * DVWA (Damn Vulnerable Web Application)
 * SafeLine WAF
 
-## 🧱 Architecture
 
-![Architecture](assets/architecture.png)
 
 ## ⚙️ Setup
 
@@ -39,9 +37,7 @@ Payload used:
 
 ➡️ Details: `docs/rate-limiting.md`
 
-## 📸 Screenshots
 
-(Add your screenshots inside /screenshots folder)
 
 ## 🎯 Key Learnings
 
